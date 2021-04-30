@@ -1,2 +1,2 @@
 # Magicworld
-demoworld
+Demo World
